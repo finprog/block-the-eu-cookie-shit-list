@@ -138,6 +138,7 @@
 ###cookieBar
 ###cookieChoiceInfo
 ###cookieComplianceMessage
+###cookieConf
 ###cookieConsentBar
 ###cookieConsentWrapper
 ###cookieContainer
